@@ -1,0 +1,14 @@
+{
+  "name": "3",
+  "version": "1.0.0",
+  "description": "beginner",
+  "main": "index.js",
+  "scripts": {
+    "runsass": "node-sass sass/main.scss css/style.css -w"
+  },
+  "author": "Kazet",
+  "license": "ISC",
+  "dependencies": {
+    "node-sass": "^4.13.0"
+  }
+}
